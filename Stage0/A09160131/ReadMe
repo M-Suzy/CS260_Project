@@ -1,0 +1,9 @@
+Specification.java 
+SpecificationHSV.java 
+(c) Taken from Arman Sujoyan
+
+Other External resources taken from opensource have their copyright information inside.
+
+For calculation of channel seperated cumulative histogram Color Histogram is used and compared with a small macro normalizing histogram for each 
+channel, but as the histograms were the same no need of additional macro. The normalization the was done by deviding the obtained values
+over image size.
