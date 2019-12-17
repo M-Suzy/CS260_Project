@@ -1,0 +1,6 @@
+Detect Head Rotation
+
+1. Use Gaussian Filter extract layer2 
+2. Calculate Orientation angle, skewness, elongation with image moments (Moments_calculator plugin)
+3. Based on this parametres guess if the head is rotated or not. 
+
